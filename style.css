@@ -1,0 +1,19 @@
+#s{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+div{
+    text-align: center;
+}
+button{
+    padding: 10px 20px;
+    font-size: 1em;
+    color: aliceblue;
+    background-color: rgb(163, 18, 196);
+    border-radius: 5px;
+    cursor: pointer;   
+}
+button:hover{
+     background-color: rgb(255, 127, 153);
+}
